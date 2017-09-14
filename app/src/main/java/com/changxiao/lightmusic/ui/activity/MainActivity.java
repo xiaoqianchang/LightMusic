@@ -1,4 +1,4 @@
-package com.changxiao.lightmusic.activity;
+package com.changxiao.lightmusic.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

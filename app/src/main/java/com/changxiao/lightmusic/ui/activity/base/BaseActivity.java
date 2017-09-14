@@ -1,4 +1,4 @@
-package com.changxiao.lightmusic.base;
+package com.changxiao.lightmusic.ui.activity.base;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -11,7 +11,6 @@ import android.support.v7.app.AppCompatActivity;
  *
  * @version 1.0
  */
-
 public class BaseActivity extends AppCompatActivity {
 
     @Override

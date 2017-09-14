@@ -1,4 +1,4 @@
-package com.changxiao.lightmusic.base;
+package com.changxiao.lightmusic.ui.activity.base;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
